@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    font-family:  Helvetica, Arial, sans-serif;
+}
+
+
+ body > footer > footer {
+    background-color: dodgerblue;
+    color: white
+}
+
+body > header > nav {
+    background-color: dodgerblue;
+    color: white
+}
+
+
+
+
